@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rawathimanshu05
-- 👀 My keen interest in Programming
-- ❤️ Right now my favorite language is javascript 
+- 👀 keen interest in Programming
+- ❤️ Right now favorite language is javascript 
 - 🌱 I’m currently learning Frontend Development
-- ❤️‍🔥 
+- ❤️‍🔥 Dream Full-stack Developer 
   
   
 <!---
