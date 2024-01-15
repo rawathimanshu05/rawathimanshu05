@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @rawathimanshu05
-- 👀 I’m interested in Programming 
+- 👀 My keen interest in Programming
+- ❤️ Right now my favorite language is javascript 
 - 🌱 I’m currently learning Frontend Development
+- ❤️‍🔥 
   
   
 <!---
