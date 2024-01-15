@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rawathimanshu05
+- 👋 Hi, I’m Himanshu Singh Rawat 
 - 👀 keen interest in Programming
 - ❤️ Right now favorite language is javascript 
 - 🌱 I’m currently learning Frontend Development
